@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/katja/GSoC/Ztex/Xilinx/test_communication/intraffic.ncd
+OUTFILE=/home/katja/GSoC/Ztex/Xilinx/test_communication/intraffic.bit
+FAMILY=Spartan6
+PART=xc6slx150-3csg484
+WORKINGDIR=/home/katja/GSoC/Ztex/Xilinx/test_communication
+LICENSE=ISE
+USER_INFO=174111888_174111889_210557533_125
